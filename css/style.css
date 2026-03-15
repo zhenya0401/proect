@@ -1,12 +1,14 @@
 
-
-
 body{
     background:#ffffff;
     text-align:center;
     margin:0;
     padding:40px;
     
+}
+
+h2 {
+     font-family: "Titan One", sans-serif;
 }
 
 h3{
