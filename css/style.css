@@ -1,0 +1,73 @@
+
+
+
+body{
+    background:#ffffff;
+    text-align:center;
+    margin:0;
+    padding:40px;
+    
+}
+
+h3{
+    color:#FFA5BA;
+    letter-spacing:2px;
+     font-family: "Titan One", sans-serif;
+}
+
+h1{
+    color:#D41443;
+    margin-bottom:50px;
+     font-family: "Titan One", sans-serif;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+}
+
+ul{
+    width:220px;
+    padding:20px;
+    border-radius:20px;
+    list-style:none;
+    color:white;
+}
+
+ul li{
+    margin:10px 0;
+}
+
+ul img{
+    width:355px;
+    margin-top: -100px;
+    margin-left: -60px;
+    
+}
+
+ul p{
+    font-size:14px;
+}
+
+.Products__button{
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    background:rgb(255, 255, 255);
+    margin:0px auto 0;
+    color: #D41443;
+}
+
+
+.icecream-card{
+    background:#FFB8CA;
+}
+
+.icecoffee-card{
+    background:#F0D1A5;
+}
+
+.milkshake-card{
+    background:#C2E297;
+}
